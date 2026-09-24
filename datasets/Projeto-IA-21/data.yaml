@@ -1,0 +1,22 @@
+names:
+- Arqueira
+- Canhao
+- Elixir
+- ElixirNegro
+- FullCoin
+- FullElixir
+- FullElixirNegro
+- Next
+- ValueCoin
+- ValueElixir
+- coin
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: projeto-ia-mxnom
+  url: https://universe.roboflow.com/trabalhoia-eompb/projeto-ia-mxnom/dataset/21
+  version: 21
+  workspace: trabalhoia-eompb
+test: ./test/images
+train: ./train/images
+val: ./valid/images
